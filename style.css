@@ -1,0 +1,44 @@
+
+#home{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin-left: 20%;
+    padding-right: 20px;
+}
+#skills{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+}
+#pro{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-right: 400px;
+}
+.main{
+    background-image: url(/images/newimage.webp);
+    background-repeat: no-repeat;
+    background-size: 1280px 1000px;
+    height: 400px;
+    width: 150%;
+}
+.secdiv{
+    color: white;
+    margin-top: 90px;
+    font-size: 30px;
+}
+#welcome{
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+}
+/* #lets{
+    font-size: 20px;
+    padding-left: 20px;
+    color: rgb(238, 157, 170);
+} */
+#tool{
+    padding-right: 10px;
+}
